@@ -1,0 +1,79 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "PhoneNumber&Sequence_9",
+        "RoleInCompany&Sequence_9",
+        "CompanyName&Sequence_9",
+        "Address&Sequence_9",
+        "Email&Sequence_9",
+        "LastName&Sequence_9",
+        "FirstName&Sequence_9",
+        "dtUsers&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Study/dataTable.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FillForm/Form.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtUsers&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FillForm/OpenForm.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "PhoneNumber&Sequence_1",
+        "RoleInCompany&Sequence_1",
+        "CompanyName&Sequence_1",
+        "Address&Sequence_1",
+        "Email&Sequence_1",
+        "LastName&Sequence_1",
+        "FirstName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_dtUsers"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FillForm/GetData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtUsers&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_dtUsers"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
